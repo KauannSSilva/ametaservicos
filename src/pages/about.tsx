@@ -95,8 +95,8 @@ export default function Services() {
             <img src="images/logo-parcerias.png" alt="Ericsson"/>
 
             <p className={styles.sectionParceriasBlockDescription}>
-              A Ericsson hoje é a nossa maior cliente e que acredita em nosso 
-              trabalho com qualidade. Através dela prestamos serviços para as 
+              A Ericsson / Nokia hoje são os nossos maiores clientes e que acreditam em nosso 
+              trabalho com qualidade. Através deles prestamos serviços para as 
               maiores redes de telecomunicações do Brasil!
             </p>
           </div>
