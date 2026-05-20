@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Inincio | AmetaServico</title>
+        <title>Inicio | Ameta Serviços</title>
       </Head>
       
       <main className={styles.main}>

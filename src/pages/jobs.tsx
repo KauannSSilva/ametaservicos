@@ -9,7 +9,7 @@ export default function Jobs() {
   return (
     <>
       <Head>
-        <title>Trabalhe Conosco | AmetaServico</title>
+        <title>Trabalhe Conosco | Ameta Serviços</title>
       </Head>
 
       <main className={styles.main}>

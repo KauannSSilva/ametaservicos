@@ -7,7 +7,7 @@ export default function Services() {
   return (
     <>
       <Head>
-        <title>Serviços | AmetaServico</title>
+        <title>Serviços | Ameta Serviços</title>
       </Head>
 
       <main className={styles.main}>

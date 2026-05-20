@@ -20,7 +20,7 @@ export default function Contact() {
   return(
     <>
       <Head>
-        <title>Contato | AmetaServico</title>
+        <title>Contato | Ameta Serviços</title>
       </Head>
 
       <main className={styles.main}>

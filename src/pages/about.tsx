@@ -6,7 +6,7 @@ export default function Services() {
   return (
     <>
       <Head>
-        <title>Sobre | AmetaServico</title>
+        <title>Sobre | Ameta Serviços</title>
       </Head>
 
       <main className={styles.main}>
@@ -30,7 +30,7 @@ export default function Services() {
             Nos dedicamos para entregar um serviços com alto valor e sua felicidade 
             é oque nos motiva em ser referência no mercado! <br /> <br/> 
 
-            <h3>Por que confiar na AMeta Serviços? </h3><br/>
+            <h3>Por que confiar na Ameta Serviços? </h3><br/>
 
             <span>
               - Entregas com qualidade; <br/>
