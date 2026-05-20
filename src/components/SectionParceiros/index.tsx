@@ -6,7 +6,9 @@ export function SectionParceiros() {
       <h1 className={styles.parceriasTitle}>Nossos Parceiros</h1>
 
       <p className={styles.parceriasDescription}>
-        A Ericsson é a nossa maior parceira, e através dela somos contratados para a prestação de serviços em grandes operadoras de telecomunicações
+        A Ericsson / Nokia hoje são os nossos maiores clientes e que acreditam em nosso 
+        trabalho com qualidade. Através deles prestamos serviços para as 
+        maiores redes de telecomunicações do Brasil!
       </p>
 
       <img 
